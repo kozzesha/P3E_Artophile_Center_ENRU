@@ -1,10 +1,10 @@
 
-q: Requirements and quality expectations...
-q: I have no idea! This is one of those cases when you need to have a team.
-q: I'll get back to it later.
-q: What's next?
+q: Требования и ожидания в отношении качества...
+q: Понятия не имею! Это тот случай, когда тебе нужна команда.
+q: Я вернусь к этому позже.
+q: Что дальше?
 
 
-j-pd-s5: A list of stakeholders
+j-pd-s5: Список стейкхолдеров
 
 

@@ -1,18 +1,18 @@
 
-q: Alright, for the stakeholders, I've got these onces so far...
+q: Хорошо, в качестве стейкхолдеров у меня пока есть следующие...
 
 n---
-**Stakeholders:**
-* Eris: CEO
-* Anan: project sponsor, director of the sales and marketing department
-* Didi: project manager
-* Imani: director of the design department
+**Стейкхолдеры:**
+* Эрис: CEO
+* Анан: спонсор проекта, директор отдела продаж и маркетинга
+* Диди: менеджер проекта
+* Имани: директор отдела проектирования
 ---n
 
-q: I can imagine more people with the power to impact it who may have an interest in the project, but we can always add them later... It's fine for now.
+q: Я могу придумать больше людей, которые могут повлиять на проект и которые могут быть в нем заинтересованы, но мы всегда можем добавить их позже... Пока оставим так.
 
 
-j-pd-assemble: Let's assemble a draft of the Project Description!
+j-pd-assemble: Время собрать черновик Резюме проекта!
 
 
 #%20

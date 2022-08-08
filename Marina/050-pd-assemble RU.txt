@@ -1,38 +1,38 @@
 
-q: Alright, here's my first draft of the Project Description:
+q: Итак, вот мой первый черновик Резюме проекта:
 
 d---
-**Project Description V0.1 (draft)**
-Building a convention center
+**Резюме проекта V0.1 (черновик)**
+Строительство конференц-центра
 
-**Purpose and expected benefits:**
-* Promoting the company
-* Helping the community
-* Earning money (directly)
-* Having a convenient place for our own events
+**Цель и ожидаемые выгоды:**
+* Продвижение компании
+* Помощь сообществу
+* Прямое зарабатывание денег
+* Приобретение удобного места для проведения наших собственных мероприятий
 
-**Expected cost and duration:**
-* 12 months
-* 1,000 artopools
+**Ожидаемые стоимость и срок реализации:**
+* 12 месяцев
+* 1000 артопулов
 
-**Requirements and quality expectations:**
-* (to be defined)
+**Требования и ожидания в отношении качества:**
+* (будут уточнены позднее)
 
-**Stakeholders:**
-* Eris: CEO
-* Anan: project sponsor, director of the sales and marketing department
-* Didi: project manager
-* Imani: director of the design department
+**Стейкхолдеры:**
+* Эрис: CEO
+* Анан: спонсор проекта, директор отдела продаж и маркетинга
+* Диди: менеджер проекта
+* Имани: директор отдела проектирования
 ---d
 
-q: Not bad... not bad...
-q: Although it doesn't seem right to call it 'a convention center'!
-q: We need a name for it.
-q: A cool name.
+q: Неплохо... неплохо...
+q: Хотя кажется неправильным называть его "конференц-центр"!
+q: Нам нужно название для него.
+q: Крутое название.
 
 
-j-name-self: Pick a name for the project.
-j-name-Eris: Ask Eris whether the project already has a name.
-j-name-Anan: Ask Anan whether the project already has a name.
+j-name-self: Выбрать проекту название.
+j-name-Eris: Спросить Эрис, есть ли уже у проекта название.
+j-name-Anan: Спросить Анана, есть ли уже у проекта название.
 
 

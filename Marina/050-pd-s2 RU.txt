@@ -1,16 +1,16 @@
 
-q: This one is simple: Eris mentioned that they expect it to be finished in 12 months, with a budget of 1,000 artopools.
+q: Это просто: от Эрис прозвучало, что они ожидают, что проект будет закончен за 12 месяцев с бюджетом в 1000 артопулов.
 
 n---
-**Expected cost and duration:**
-* 12 months
-* 1,000 artopools
+**Ожидаемые стоимость и срок реализации:**
+* 12 месяцев
+* 1000 артопулов
 ---n
 
-q: I don't know how realistic their rough estimate is, but we'll know a lot more after project initiation.
-q: What's next for the Project Description?
+q: Не знаю, насколько реалистичны их предварительные оценки, но после запуска проекта мы узнаем гораздо больше.
+q: Что в Резюме проекта идет дальше?
 
 
-j-pd-s3: Requirements and quality expectations
+j-pd-s3: Требования и ожидания в отношении качества
 
 

@@ -1,10 +1,10 @@
 
-q: OK. We're halfway through A04, and A05 is about identifying deliverables, which certainly needs a team...
-q: I can't do it by myself.
-q: So, we have to wait.
+q: Хорошо. Мы на полпути от шага A04 к A05, а на шаге A05 необходимо определить ожидаемые результаты, для чего, конечно, нужна команда...
+q: Я не могу сделать это самостоятельно.
+q: Поэтому придется подождать.
 
 
-j-next-2: Get a cup of coffee.
-j-next-2: Get a cup of tea.
+j-next-2: Выпить чашечку кофе.
+j-next-2: Выпить чашечку чая.
 
 

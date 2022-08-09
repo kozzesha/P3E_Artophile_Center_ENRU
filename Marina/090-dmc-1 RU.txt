@@ -1,13 +1,13 @@
 
-u: OK, Didi, how can I help you?
-i: You've already told me about the requirements.
-i: Can you tell me about the product that will satisfy those requirements?
-i: I mean, what would the building elements of that product be?
-u: Well, we have a rough design already.
-u: Would you like to see it?
+u: ОК, Диди, чем я могу тебе помочь?
+i: Я уже знаю от тебя о требованиях.
+i: Можешь теперь рассказать о продукте, который будет удовлетворять этим требованиям?
+i: Я имею в виду, какими будут строительные элементы этого продукта?
+u: Что ж, у нас уже есть примерный проект здания.
+u: Хочешь посмотреть?
 
 
-j-dmc-2nodesigner: "Of course I would!"
-j-dmc-2designer: "Who's the designer?"
+j-dmc-2nodesigner: "Конечно хочу!"
+j-dmc-2designer: "Кто проектировщик?"
 
 

@@ -1,12 +1,12 @@
 
-u: Hello, Azar speaking.
-i: Hi Azar, this is Didi.
-i: Can you help me map the deliverables of the project?
-u: I'm not sure if I know everything you need, but I'll do my best.
-u: I'll come to your office in 10 minutes.
+u: Здравствуйте, Азар слушает.
+i: Привет, Азар, это Диди.
+i: Можешь ли ты помочь мне составить карту результатов проекта?
+u: У меня нет уверенности в том, что я знаю всё, что тебе нужно, но я сделаю всё возможное.
+u: Буду в твоем кабинете через 10 минут.
 
 
-j-dmc-1: "Thanks!"
-j-dmc-1: "See you then!"
+j-dmc-1: "Спасибо!"
+j-dmc-1: "Тогда увидимся!"
 
 

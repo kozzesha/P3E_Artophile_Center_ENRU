@@ -1,7 +1,7 @@
 
 s: Конец!!
 u: So, the course is finished!
-u: We hope you've enjoyed the course :)
+u: Мы надеемся, что вам понравился курс! :)
 
 
 j-end-2: Далее

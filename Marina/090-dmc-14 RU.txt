@@ -1,43 +1,43 @@
 
-i: Let me collapse the 'walls' item so we can see everything more easily...
+i: Сверну-ка я 'стены', чтобы проще было увидеть все остальное...
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Walls …
-==== Ceiling
-==== Floor
-=== Information room
-=== Storage room
-=== Conference room #3
-=== WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
-=== WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+= Артофил Центр
+== Подготовка участка
+== Снос склада
+== Здание
+=== Главный холл
+==== Стены …
+==== Потолок
+==== Пол
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
+=== Туалет #2
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
+=== Туалет #1
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и пешеходные дорожки
+=== Парковые зоны
 end-textree
 ---t
 
-u: Didi, we also have the earthwork and foundations for the building.
-i: Is it one deliverable for the whole building, or is it something separate for each area of the building?
-u: It really depends on your perspective!
-u: On the one hand, they're done in one go and can be seen as a deliverable for the whole building, but on the other hand, we can still divide them into multiple sections as they're not small things, and those divisions can match the areas we already have.
+u: Диди, у нас еще должны быть земляные работы и фундамент для здания.
+i: Это один ожидаемый результат для всего здания или это что-то для каждого участка здания в отдельности?
+u: Это очень зависит от того с какой стороны посмотреть.
+u: С одной стороны эти работы выполняются за раз и могут рассматриваться как результат для всего здания, с другой стороны, так как они крупные, мы можем разделить их на несколько секций, и это разделение может соответствовать участкам, которые у нас уже есть.
 
 
-j-dmc-15-whole: Add them for the building as a whole.
-j-dmc-15-separate: Add them separately for each area.
+j-dmc-15-whole: Добавить их ко всему зданию целиком.
+j-dmc-15-separate: Добавить их отдельно к каждому участку.
 
 

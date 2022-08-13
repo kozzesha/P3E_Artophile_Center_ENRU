@@ -1,43 +1,43 @@
 
-u: Nothing high-level, but there are lots of details inside each of those areas.
-i: OK, let's talk about them.
-u: There are the walls, windows, doors, ceiling, floor, and so.
-i: I'll add them to the 'main hall' for now, and then we can add them to the rest of the areas.
+u: Ничего сложного, но внутри каждой из этих зон есть много деталей.
+i: ОК, давай их обсудим.
+u: Речь про стены, двери, потолок, пол и другое.
+i: Пока я добавлю их в "главный холл", а потом мы можем добавить их и в остальные зоны.
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Walls
-==== Doors
-==== Windows
-==== Ceiling
-==== Floor
-=== Information room
-=== Storage room
-=== Conference room #3
-=== WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
-=== WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+= Артофил Центр
+== Подготовка участка
+== Снос склада
+== Здание
+=== Главный холл
+==== Стены
+==== Двери
+==== Окна
+==== Потолок
+==== Пол
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
+=== Туалет #2
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
+=== Туалет #1
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и пешеходные дорожки
+=== Парки
 end-textree
 ---t
 
 
-j-dmc-12: "How does it look?"
-j-dmc-12: "Anything else?"
+j-dmc-12: Как тебе?
+j-dmc-12: Нужно ли что-то еще?
 
 

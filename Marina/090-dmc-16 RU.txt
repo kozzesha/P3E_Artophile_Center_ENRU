@@ -1,45 +1,45 @@
 
-u: Alright.
-u: I think we're done.
-u: Although, wait... don't forget about the furniture!
-u: It's part of the project to furnish the building.
-i: OK, I'll add it as well.
+u: Хорошо.
+u: Я думаю мы закончили.
+u: Хотя подожди...нельзя забыть о мебели!
+u: Меблировать здание - это часть проекта.
+i: ОК, добавлю это тоже.
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Earthwork
-==== Foundation
-==== Walls …
-==== Ceiling
-==== Floor
-==== Furniture
-=== Information room
-=== Storage room
-=== Conference room #3
-=== WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
-=== WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+= Артофил Центр
+== Подготовка участка
+== Снос склада
+== Здание
+=== Главный холл
+==== Земляные работы
+==== Фундамент
+==== Стены …
+==== Потолок
+==== Пол
+==== Мебель
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
+=== Туалет #2
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
+=== Туалет #1
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и пешеходные дорожки
+=== Парковые зоны
 end-textree
 ---t
 
 
-j-dmc-17: "What else?"
-j-dmc-17: "Do we have anything else to add?"
+j-dmc-17: "Что еще?"
+j-dmc-17: "Есть ли у нас еще что-то, что необходимо добавить?"
 
 

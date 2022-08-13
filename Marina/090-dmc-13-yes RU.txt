@@ -1,49 +1,49 @@
 
-i: OK, here they are...
+i: ОК, готово...
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Walls
-===== Load-bearing walls
-====== Isolated
-====== Colored
-====== Exposed
-===== Acoustic treatment of the walls
-===== Doors
-===== Windows
-==== Ceiling
-==== Floor
-=== Information room
-=== Storage room
-=== Conference room #3
-=== WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
-=== WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+= Артофил Центр
+== Подготовка участка
+== Снос склада
+== Здание
+=== Главный холл
+==== Стены
+===== Несущие стены
+====== Теплоизолированные
+====== Окрашенные
+====== Открытые
+===== Аккустическая отделка стен
+===== Двери
+===== Окна
+==== Потолок
+==== Пол
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
+=== Туалет #2
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
+=== Туалет #1
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и пешеходные дорожки
+=== Парковые зоны
 end-textree
 ---t
 
-u: I'm sorry, Didi, they just don't seem right!
-u: All the elements that we have in this map are deliverables, but these last 3 that I asked you to add are not deliverables, but characteristics of a deliverable, aren't they?
-i: Yes, it's not correct!
+u: Диди, я прошу прощения, они выглядят как-то неуместно.
+u: Все элементы, которые мы добавили в Карту, являются ожидаемыми результатами, но последние три, добавленные по моей просьбе - это не результаты, а характеристики результатов, не так ли?
+i: Да, это неправильно!
 
 
-j-dmc-13-yes-remove: Remove them from the map.
-j-dmc-13-comment: Turn them into comments for the 'load bearing walls' item.
+j-dmc-13-yes-remove: Удалить элементы из Карты.
+j-dmc-13-comment: Перенести их в комментарий к элементу 'несущие стены'.
 
 

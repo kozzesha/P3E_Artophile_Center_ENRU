@@ -1,18 +1,18 @@
 
-s: 2 days later
-u: OK, Didi, is it OK now?
-i: Yes, Mirai, seems like those contracts won't have a great impact on the schedule after all.
-u: So, we wasted our time!
-i: Oh, no!
-i: It could have had an impact, and you never know until you check it.
-i: We don't want to leave these things to chance.
-u: I understand.
-u: What's next?
+s: 2 дня спустя
+u: OK, Диди, теперь все в порядке?
+i: Да, Мирай, кажется, эти контракты не сильно повлияют на план работ.
+u: Получается, мы зря потратили время!
+i: О, нет!
+i: Это могло повлиять, и вы не узнаете, пока не проверите.
+i: Мы не хотим оставлять эти вещи на волю случая.
+u: Я понимаю.
+u: Что дальше?
 
 
-j-b1-17-kick-off: Monthly kick off meeting
-j-b1-17-gonogo: Monthly go/no go decision
-j-b1-17-comm: Monthly focused communication
+j-b1-17-kick-off: Начало месяца
+j-b1-17-gonogo: Ежемесячное решение go/no go
+j-b1-17-comm: Ежемесячная фокусированная коммуникация
 
 
 #%85

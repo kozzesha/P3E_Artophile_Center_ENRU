@@ -1,12 +1,12 @@
 
-i: Again, it's up to us.
-i: Usually, when it's more than half a month, people have a short cycle until the end of the month, and when it's less than half a month, they merge it into the next month.
-u: So, Didi, does that mean that we start the cycle today, on the 18th of the month, and continue it for 48 days, until the end of the next month?
-i: Yes, I think that's a good choice.
-u: What are the things we should do this month, then?
+i: Опять же, это зависит от нас.
+i: Обычно, когда прошло больше половины месяца, это короткий цикл до конца месяца, а когда прошло меньше половины месяца, его объединяют со следующим месяцем.
+u: Итак, Диди, значит ли это, что мы начинаем цикл сегодня, 18-го числа, и продолжаем его в течение 48 дней, до конца следующего месяца?
+i: Да, я думаю, это хороший выбор.
+u: Что мы тогда должны сделать в этом месяце?
 
 
-j-b1-5-schedule: Check the schedule.
-j-b1-5-ask: Ask the team.
+j-b1-5-schedule: Проверьте план работ.
+j-b1-5-ask: Спросите команду.
 
 

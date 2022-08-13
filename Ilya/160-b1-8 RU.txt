@@ -1,11 +1,11 @@
 
-q: Seems like we're done with B01, and it's time for B02... peer-review.
-q: I can ask our best project manager, Tiam, to be the peer reviewer again.
-q: There are other options as well; for example, Jehan is a good project manager too.
-q: However, no one is as good as Tiam, ever!
+q: Похоже, мы закончили с B01, и пришло время для B02... ревью.
+q: Я могу попросить нашего лучшего менеджера проекта, Тиама, снова стать рецензентом.
+q: Есть и другие варианты, например, Джеан тоже хороший менеджер проекта.
+q: Однако, никто не так хорош, как Тиам!
 
 
-j-b1-9-tiam: Ask Tiam.
-j-b1-9-jehan: Ask Jehan.
+j-b1-9-tiam: Спросить Тиам.
+j-b1-9: Спросить Джеан.
 
 

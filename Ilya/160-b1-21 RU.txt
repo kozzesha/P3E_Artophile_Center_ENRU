@@ -1,9 +1,9 @@
 
-i: Mirai, we have permission to start the cycle, and it's time to have a kick-off meeting.
-i: Would you arrange that?
-u: Sure!
+i: Mirai, у нас есть разрешение на начало цикла, и пришло время для стартовой встречи.
+i: Не могли бы вы это сделать?
+u: Конечно!
 
 
-j-b1-22: "Thanks."
+j-b1-22: "Спасибо"
 
 

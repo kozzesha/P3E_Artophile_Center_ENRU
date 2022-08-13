@@ -1,10 +1,10 @@
 
-u: Didi, I'm thinking of two options: Imani and Anan.
-u: Imani, as the director of the design department, has great knowledge of the technical aspects, while Anan, as director of the sales and marketing department, knows most about how this project will benefit us.
-u: Which one do you think is better for the role?
+u: Диди, я думаю о двух вариантах: Имани и Анан.
+u: Имани, как директор проектного отдела, отлично разбирается в технических аспектах, в то время Анан, как директор отдела продаж и маркетинга знает больше о том, как этот проект принесет нам пользу.
+u: Кто из них, по вашему мнению, лучше подойдёт для этой роли?
 
 
-j-sp-Imani: Imani
-j-sp-Anan: Anan
+j-sp-Imani: Имани
+j-sp-Anan: Анан
 
 

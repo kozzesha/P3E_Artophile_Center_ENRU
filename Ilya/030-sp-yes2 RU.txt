@@ -1,9 +1,9 @@
 
-q: Shall I say it's fine?
-q: But Eris won't do much in this role. It will be as if the role doesn't exist.
-q: The whole idea is that a project manager really needs to have a sponsor.
+q: Должен ли я сказать, что все в порядке?
+q: Но Эрис мало что сделает в этой роли. Это будет так, как будто роли не существует.
+q: Вся идея заключается в том, что менеджеру проекта действительно нужен спонсор.
 
 
-j-sp-no2: Politely say no.
+j-sp-no2: Вежливо откажись.
 
 

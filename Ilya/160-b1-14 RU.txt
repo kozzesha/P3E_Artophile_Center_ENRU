@@ -1,16 +1,16 @@
 
-u: So, Didi, have you also checked to see what other contracts will be needed in the project and how they will impact the overall schedule?
-i: These are the only contracts for the upcoming month.
-u: I know, but I don't see any signs of contracts in the rest of the schedule.
-u: Your goal in B01 is not limited to detailing the plan for the upcoming month, but also revising the whole plan when needed.
-u: Those contracts have a potential impact, and you may realize, for example, that in order to finish the project as scheduled, you need to start preparing more contracts as soon as possible.
-i: Oh, I see.
-i: That's correct...
-i: We've not thought too much about the other contracts, and didn't consider them in the schedule.
+u: Итак, вы проверили какие ещё контракты будут нужны в проекте и как они повлияют на общий план работ?
+i: У нас только эти контракты на предстоящий месяц.
+u: Знаю, но я не вижу никаких признаков контрактов в остальной части плана работ.
+u: Ваша цель в B01 не ограничивается детализацией плана на предстоящий месяц и включает пересмотр всего плана, если необходимо.
+u: У этих контрактов есть потенциальный резонанс, и вы могли бы отдавать себе отчёт, что для завершения проекта по расписанию, вам нужно начинать готовить больше контрактов как можно раньше.
+i: Ясно.
+i: Это верно...
+i: Мы не задумывались о других контрактах и не рассматривали их в плане работ.
 
 
-j-b1-15: "What else?"
-j-b1-15: "Was that all?"
-j-b1-15: "Any other comments?"
+j-b1-15: "Что ещё?"
+j-b1-15: "Это всё?"
+j-b1-15: "Другие комментарии?"
 
 

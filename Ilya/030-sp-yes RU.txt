@@ -1,9 +1,9 @@
 
-u: I'm a busy person though, and I can't spend much time on it.
-u: Is that alright?
+u: Я занятой человек, и я не могу тратить на него много времени.
+u: Это нормально?
 
 
-j-sp-no2: No
-j-sp-yes2: Yes
+j-sp-no2: Нет
+j-sp-yes2: Да
 
 

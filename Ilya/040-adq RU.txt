@@ -1,9 +1,9 @@
 
-u: I'll find a good sales and marketing expert for you by the end of the day.
-u: As for the architect, I may need a couple of days.
+u: К концу дня я найду для вас хорошего специалиста по продажам и маркетингу.
+u: Что касается архитектора, то мне может понадобиться пару дней.
 
 
-j-adfin: "Thanks. I'll get to work, then."
-j-adfin: "Great. I'll talk to you soon, then."
+j-adfin: "Спасибо. Тогда я приступлю к работе."
+j-adfin: "Отлично. Тогда скоро с тобой поговорим."
 
 

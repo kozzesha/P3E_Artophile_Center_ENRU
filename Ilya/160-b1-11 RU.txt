@@ -1,12 +1,12 @@
 
-s: Phone is ringing
-u: Hi Didi, this is Jehan.
-i: Hi Jehan.
-u: I checked your documents, and I have a few questions.
-u: Can we meet to talk?
+s: Звонит телефон
+u: Привет, Диди, это Джеан.
+i: Привет, Джеан.
+u: Я проверил ваши документы, и у меня есть несколько вопросов.
+u: Мы можем встретиться, чтобы поговорить?
 
 
-j-b1-12: "Sure. I'll come to your office in a minute, if that suits."
-j-b1-12: "Sure. I'm available; feel free to come to my office whenever you want."
+j-b1-12: "Конечно. Я подойду к тебе через минуту, если тебе удобно."
+j-b1-12: "Конечно. Я свободен, можете приходить ко мне в офис, когда захотите»"
 
 

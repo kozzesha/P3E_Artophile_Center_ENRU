@@ -1,10 +1,10 @@
 
-i: So, Mirai, from now on, we're going to work in monthly cycles.
-i: At the beginning of each month, we'll detail the plan for the upcoming month and revise the rest if necessary, conduct a few extra activities, and then start executing that month's work.
-u: Do the cycles have to match calendar months and start at the beginning of the month, or can they start, for example, on the 20th of each month?
+i: Итак, Мирай, отныне мы будем работать в ежемесячных циклах.
+i: В начале каждого месяца мы подробно рассмотрим и при необходимости пересмотрим план на предстоящий месяц, проведём несколько дополнительных мероприятий, а затем начнём выполнение работы этого месяца.
+u: Циклы должны соответствовать календарным месяцам и начинаться в начале месяца, или они могут начинаться, например, 20 числа каждого месяца?
 
 
-j-b1-3: They should start at the beginning of each month.
-j-b1-3: They can start on any arbitrary date.
+j-b1-3: Они должны начинаться в начале каждого месяца.
+j-b1-3: Они могут начинаться в любой произвольный день.
 
 

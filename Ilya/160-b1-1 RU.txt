@@ -1,14 +1,14 @@
 
-u: Didi, we're finished with the banner, and it's in the lobby now.
-i: Great, thanks, Mirai.
-i: We take it down in a couple of weeks.
+u: Диди, мы закончили с баннером, и повесили в холле.
+i: Отлично, спасибо, Мирай.
+i: Снимем через пару недель.
 u: OK.
-u: So, what's next?
+u: Итак, что дальше?
 
 
-j-b1-2-permission: Getting permission for the first monthly cycle.
-j-b1-2-plan: Revising and refining the plans.
-j-b1-2-kick: Monthly kick off.
+j-b1-2-permission: Получение разрешения на первый месячный цикл.
+j-b1-2-plan: Обновление и детализация планов.
+j-b1-2-kick: Начало месяца.
 
 
 #%80

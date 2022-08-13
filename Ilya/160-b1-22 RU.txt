@@ -1,11 +1,11 @@
 
-s: After the kick-off meeting
-q: OK, it was a fine kick-off meeting.
-q: Although, not as amazing as the one for project initiation.
-q: We have to be a little more creative.
+s: После стартовой встречи
+q: OK, это была прекрасная стартовая встреча.
+q: Хотя и не такая изумительная, как при запуске проекта.
+q: Мы должны быть более креативными.
 
 
-j-b5-email: Send an email to all team members about the cycle.
-j-b5-noemail: End the monthly initiation.
+j-b5-email: отправить электронное письмо всем членам команды о цикле.
+j-b5-noemail: Завершить ежемесячное планирование цикла.
 
 

@@ -1,10 +1,10 @@
 
-i: It's a good idea to check it with the team.
-u: So, Didi, do you mean that we have to ask the team what they want to do during the cycle, and that would be the plan?
-i: Not exactly.
-i: We have our schedule, but we double-check it with the team to make sure it's still realistic.
+i: Хорошая идея проверить это с командой.
+u: Итак, Didi, вы имеете в виду, что мы должны спросить команду, что они хотят сделать в течение цикла, и это было бы планом?
+i: Не совсем.
+i: У нас есть план работ, но мы дважды проверим его с командой, чтобы убедиться, что он все еще реалистичен.
 
 
-j-b1-5-schedule: Check the schedule.
+j-b1-5-schedule: Проверьте план работ.
 
 

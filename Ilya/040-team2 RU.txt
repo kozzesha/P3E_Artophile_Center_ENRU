@@ -1,11 +1,11 @@
 
-q: OK, I need to form a team before doing almost anything else.
-q: I think it can be my next step.
-q: Although, when I think about it, I need the sponsor's help in forming the team, because the team members come from other departments.
+q: OK, мне нужно сформировать команду, прежде чем делать что-либо еще.
+q: Думаю, это может быть мой следующий шаг.
+q: Хотя, если подумать, мне нужна помощь спонсора в формировании команды, поскольку члены команды приходят из других отделов.
 
 
-j-plan2: Plan the project.
-j-pd2: Prepare the Project Description.
-j-meet-anan: Meet Anan.
+j-plan2: Запланировать проект.
+j-pd2: Подготовить Резюме проекта.
+j-meet-anan: Встреча с Анан.
 
 

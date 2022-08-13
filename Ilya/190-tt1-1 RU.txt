@@ -1,65 +1,65 @@
 
-s: You blinked!
-u: Didi, you've traveled forward in time 242 days.
-u: See you later.
-i: Oh, come on, 'Berty'!
-u: Didi, are you OK?
-i: Mirai?
-i: When did you get here?
-u: What do you mean?
-u: I've been working with you on this report for the past 3 hours!
-i: What report?
-i: Here...
+s: Ты моргнул!
+u: Диди, ты перенеслась во времени на 242 дня вперёд.
+u: Увидимся.
+i: Ай, да ладно, 'Берти'!
+u: Диди, ты в порядке?
+i: Мирай?
+i: Когда ты здесь появился?
+u: В смысле?
+u: Мы работаем с тобой над этим отчётом на протяжении последних трёх часов!
+i: Каким отчётом?
+i: Этим...
 
 d---
-**Artophile Center Project**
-Weekly progress report #36, 2022-04-25
+**Артофил Центр Проект**
+Недельный отчет по прогрессу #36, 2022-04-25
 
-**Progress:**
+**Прогресс:**
 
 start-progrext
 62
 56
 end-progrext
 
-Planned progress: 62%
-Actual progress: 56%
+Запланированный прогресс: 62%
+Фактический прогресс: 56%
 
-**Forecasts:**
-Duration → 17 months (plan) + 0.5 month (deviation)
-Cost → 965 artopools (plan) + 5 artopools (deviation)
+**Прогнозы:**
+Продолжительность → 17 месяцев (план) + 0.5 мес (отклонение)
+Стоимость → 965 артопул (план) + 5 артопул (отклонение)
 
-**Deliverables:**
+** Результаты:**
 
-Finished this week:
-* Main hall › Ceiling › Cladding and insulation
-* Information room › Lighting
-* Conference room #3 › HVAC
-* WC #2 › Floor
-* WC #2 › Walls
-* Conference room #2 › Fire protection
-* Administration room
-* Security room › Computer network
+Завершено на этой неделе:
+* Главный холл › перекрытие › облицовка и теплоизоляция
+* справочная › освещение
+* Конференц-зал #3 › Отопление, вентиляция, кондиционирование
+* WC #2 › Пол
+* WC #2 › Стены
+*Конференц-зал #2 › противопожарная защита
+* Комната администрации
+* Комната охраны › Компьютерная сеть
 
-In-progress this week:
-* Main hall › HVAC
-* Information room › Computer network
-* Information room › Music/PA system
-* Storage room › Lighting
-* Conference room #3 › Fire protection
-* Utility room › Ceiling
-* Meeting room #1 › Walls
-* Meeting room #2 › Walls
+В процессе выполнения на этой неделе:
+* Главный холл › Отопление, вентиляция, кондиционирование
+* Справочная› Компьютерная сеть
+* Справочная › Mузыкальная система
+* Кладовка › Освещение
+* Конференц-зал #3 › противопожарная защита
+* подсобное помещение › перекрытие
+* переговорная #1 › Стены
+* переговорная #2 › Стены
 
-**Comments:**
-We're still waiting to receive more details about the upcoming Public Places Safety (PPS) regulations to see how they impact the project. There's a chance that it will add extra work and cost to the project, but regardless, it's best to know as soon as possible and adjust our plans accordingly.
-We're still trying to find acoustic panels that can pass Noor's criteria for aesthetics while still matching the technical requirements. It seems to be taking much longer than expected.
+**Комментарии:*
+Ожидаем получения более детальной информации о требованиях по безопасности общественных пространств (БОП), чтобы точно знать как они повлияют на проект. Есть вероятность, что это увеличит объём работ и стоимость проекта, но предпочтительнее узнать это как можно быстрее и соответственно скорректировать планы.
+Мы всё ещё в поисках акустических панелей, которые подойдут по эстетическим критериям Ноор/а и будут соответствовать техническим требованиям. Похоже, это занимает гораздо больше времени, чем ожидалось.
 ---d
 
-q: Did I really travel in time, or is it a really elaborate joke from my colleagues?
+q: А в самом деле было путешествие во времени или это такая шутка со стороны коллег?
 
 
-j-tt1-2n: Call Tiam and ask about it.
-j-tt1-2y: Just accept it as a simple time travel and move on.
+j-tt1-2n: Позвони Тиам и спроси.
+j-tt1-2y: Просто прими это как простое путешествие во времени и двигайся дальше.
 
 

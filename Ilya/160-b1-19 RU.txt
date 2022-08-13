@@ -1,16 +1,16 @@
 
-s: The next day
+s: На следующий день
 
 e---
-Hi Didi,
-Thanks for the information. It seems fine to me. Please proceed with the cycle.
-Good luck!
+Привет, Диди,
+Спасибо за информацию. Мне кажется, это нормально. Пожалуйста, продолжайте цикл.
+Удачи!
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
-j-b1-20-kickoff: Kick off the monthly cycle.
-j-b1-20-comm: Conduct a focused communication.
+j-b1-20-kickoff: Провести стартовую встречу цикла.
+j-b1-20-comm: Проведение сфокусированной коммуникации.
 
 

@@ -1,13 +1,13 @@
 
-i: It's up to us.
-i: When there are multiple projects in the company with shared resources, it may be a good idea to have different cycle starts for them, so that their monthly initiations are not all at the same time.
-i: If that's not the case, though it's easier to start each cycle at the beginning of the month.
-u: So what is the case for us?
-i: I think it's best for us to start cycles at the beginning of each month.
-u: So, it's the 18th today; does that mean we should have just a small cycle until the end of this month?
+i: Это зависит от нас.
+i: Когда в компании несколько проектов с совместно используемыми ресурсами, возможно, хорошая идея, иметь для них разные старты циклов, чтобы планирования циклов не происходили в одно и то же время.
+i: Если это не так, то проще начинать каждый цикл в начале месяца.
+u: Так у нас какой случай?
+i: Думаю, для нас лучше начинать циклы в начале каждого месяца.
+u: Итак, сегодня 18-е число, значит ли это, что у нас должен быть малый цикл до конца этого месяца?
 
 
-j-b1-4: Yes
-j-b1-4: No
+j-b1-4: Да
+j-b1-4: Нет
 
 

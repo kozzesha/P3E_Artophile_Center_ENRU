@@ -1,11 +1,11 @@
 
-i: No Anan, thanks.
-i: I'm going to get started.
-i: Oh, actually, yes, there is one thing...
-i: I almost forgot. 
-i: I need your help with forming the initial team.
+i: Нет, Анан, спасибо.
+i: Я собираюсь начать.
+i: О, собственно, да, есть ещё кое-что...
+i: Чуть не забыл. 
+i: Мне нужна ваша помощь в формировании изначальной команды.
 
 
-j-team3: Wait for Anan to respond.
+j-team3: Дождитесь ответа Анан.
 
 

@@ -1,9 +1,9 @@
 
-s: The next day
-u: Didi, we're done with refining the plans.
-i: Good, Mirai.
-i: Tell me about it.
-u: This is the detailed schedule for this cycle...
+s: На следующий день
+u: Диди, мы закончили с детализированием планов.
+i: Хорошо, Мирай.
+i: Расскажи мне.
+u: Вот детальная программа этого цикла...
 
 g---
 start-ganttext
@@ -11,29 +11,29 @@ O-18
 o100
 m400
 M4000
-= Artophile Center ---
-== Site preparation ---
-=== Insurance                   @20-23
-=== Permissions                 @20-25
-=== Mobilization contract       @21-26
-=== Mobilization                @27-40
-== Demolition of the warehouse ---
-=== Demolition contract         @27-32
-=== Demolition                  @41-70
+= Артофил Центр ---
+== подготовка объекта ---
+=== страхование                   @20-23
+=== разрешения                 @20-25
+=== контракт на развёртывание работ        @21-26
+=== развёртывание работ                 @27-40
+== снос склада ---
+=== контракт на снос        @27-32
+=== снос                  @41-70
 end-ganttext
 ---g
 
-i: So, what have you done here?
-u: We broke down 'site mobilization' and 'demolition of the warehouse' into smaller items.
-u: Both of them will be done by external contractors, and so we have items for the contracts as well.
-u: We also changed the title of 'site mobilization' to 'site preparation', to contain both the mobilization and other things such as buying insurance and receiving permissions from authorities.
-i: Alright.
-i: Did you make any changes to the overall schedule?
-u: No.
-u: There were changes to the schedule for those two main deliverables, but they didn't impact anything else.
+i: Итак, к чему мы здесь пришли?
+u: Мы разобрали термины 'развёртывание работ объекта' и 'снос склада' на мелкие элементы.
+u: Они оба будут выполняться внешними подрядчиками и у нас будут отдельные элементы для контрактов.
+u: Также мы изменили название 'развёртывание работ объекта' на 'подготовка объекта' чтобы оно содержало и развёртывание работ и другие моменты, такие как приобретение страхования и получение разрешений.
+i: Согласен.
+i: В общую программу вносили хоть какие изменения?
+u: Нет.
+u: Были изменения программы для этих двух основных результатов, но ни на что другое они не повлияли.
 
 
-j-b1-8: "Thanks."
-j-b1-8: "Well done."
+j-b1-8: "Благодарю."
+j-b1-8: "Отличная работа."
 
 

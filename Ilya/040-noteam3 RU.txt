@@ -1,11 +1,11 @@
 
-u: Didi, I don't want to micro-manage you.
-u: Just come to me whenever you need my help, and make sure you inform me of anything that may have an impact on the benefits of the project.
-i: Thanks for trusting me.
-i: I'll do that.
+u: Диди, я не хочу управлять вами на микроуровне.
+u: Просто приходите ко мне всякий раз, когда вам нужна моя помощь, и убедитесь, что вы сообщаете мне обо всем, что может повлиять на выгоды от проекта.
+i: Благодарю за доверие.
+i: Я сделаю это.
 
 
-j-team3: "Shall we talk about the project team?"
-j-noteam4: Say nothing and wait for Anan to continue.
+j-team3: "Поговорим о команде проекта?"
+j-noteam4: Ничего не говори и подожди, пока Анан продолжит.
 
 

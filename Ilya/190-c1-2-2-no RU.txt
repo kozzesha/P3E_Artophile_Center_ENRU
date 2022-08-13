@@ -1,9 +1,9 @@
 
-q: Oh, not every time...
-q: It feels unnatural to ask them for feedback every single week, especially when the format of the report hasn't changed - but on the other hand, it's not only about the format, but also about how well the format and content match the current needs.
-q: So, maybe every once in a while?
+q: Ох, не каждый раз...
+q: Немного странно каждую неделю запрашивать у них отзывы, особенно если формат отчета не изменился, но, с другой стороны, дело не только в формате, но и в том, насколько хорошо формат и содержание соответствуют текущим потребностям.
+q: Так, может, время от времени?
 
 
-j-c1-2-2-maybe: Explain it to Mirai.
+j-c1-2-2-maybe: Объясните это Мирай.
 
 

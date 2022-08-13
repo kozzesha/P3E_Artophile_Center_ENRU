@@ -1,11 +1,11 @@
 
-q: Shall I prepare the Project Description?
-q: I already have a lot of information for it.
-q: However, the Project Description is prepared in A04, and I'm not done with A03 yet. That means that I need to have the team formed before preparing the Project Description.
+q: Должен ли я подготовить Резюме проекта?
+q: У меня уже много информации для него.
+q: Тем не менее, Резюме проекта подготовлено в A04, а я еще не закончил с A03. Это означает, что мне нужно сформировать команду перед подготовкой Резюме проекта.
 
 
-j-plan2: Plan the project.
-j-team2: Form the initial team.
-j-meet-anan: Meet Anan.
+j-plan2: Запланировать проект.
+j-team2: Сформировать изначальную команду.
+j-meet-anan: Встреча с Анан.
 
 

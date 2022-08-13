@@ -1,15 +1,15 @@
 
-i: Mirai, it seems like we're done with the report.
-i: Please send it to the stakeholders who are supposed to receive it.
-i: We've probably marked them as such in the Project Description, haven't we?
-u: Yes, Didi, there's a column in front of the stakeholders names that shows who's supposed to receive the report.
-i: OK, good.
-i: Don't forget to ask them for feedback after a few days, to make sure the report works for them.
-u: I've already done that for the previous reports. Do I have to do it every week?
+i: Мирай, похоже, мы закончили с отчетом.
+i: Пожалуйста, отправьте его стейкхолдерам, которые должны его получить.
+i: Вероятно, мы отметили их в данной роли в Резюме проекта, так?
+u: Да, Диди, перед именами стейкхолдеров есть столбец, который указывает, кто именно получает отчет.
+i: OK, хорошо.
+i: Не забудьте попросить их оставить отзыв через пару дней, чтобы убедиться, что отчет им подошёл.
+u: Это было уже сделано для предыдущих отчетов. Надо это делать каждую неделю?
 
 
-j-c1-2-2-yes: Yes, every week.
-j-c1-2-2-no: No, once is enough.
-j-c1-2-2-maybe: Maybe!
+j-c1-2-2-yes: Да, каждую неделю.
+j-c1-2-2-no: Нет, достаточно одного раза.
+j-c1-2-2-maybe: Может быть!
 
 

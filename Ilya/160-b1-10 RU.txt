@@ -1,20 +1,20 @@
 
-i: Hi Jehan, this is Didi.
-u: Hi Didi.
-u: How are you?
-i: Very well, thanks; and you?
-u: I'm fine, thanks.
-u: Busy closing our project.
-i: Great...
-i: Congratulations.
-u: Thanks.
-i: I don't know if it's a good time to ask you this, but would it be possible for you to be the peer reviewer for our monthly initiation?
-u: No problem.
-u: It won't take too much time.
-u: Send me on the documents.
-i: I will. Thanks.
+i: Привет, Джеан, это Диди.
+u: Привет, Диди.
+u: Как дела?
+i: Отлично, спасибо, как у вас?
+u: Хорошо, спасибо.
+u: Занят, закрывая наш проект.
+i: Прекрасно...
+i: Поздравления.
+u: Спасибо.
+i: Не знаю, уместно ли просить вас об этом, но не могли бы вы стать рецензентом нашего ежемесячного планирования цикла?
+u: Без проблем.
+u: Это не займет много времени.
+u: Пришлите мне документы.
+i: Пришлю. Спасибо.
 
 
-j-b1-11: Send the documents to Jehan.
+j-b1-11: Отправить документы Джеан.
 
 

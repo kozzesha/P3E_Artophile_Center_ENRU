@@ -1,18 +1,18 @@
 
-s: Trying to find Anan's office...
-q: I've met Anan before, but only occasionally.
-q: Which office am I looking for?
-q: Hmm... OK, there it is!
-s: Knocking on the door...
-u: Didi! Come in.
-i: Thanks.
-u: Take a seat...
-u: So, Eris told me about my being the sponsor of this project, and I accepted because I believe this project is important for us, and I personally want to make sure it succeeds.
-u: In particular, I want to make sure we don't sacrifice this project for other projects just because they have an external client and this one is internal.
-u: Do you know what I mean?
+s: Пытаюсь отыскать офис Анан...
+q: Мы встречались с Анан раньше, но изредка.
+q: Какой офис мне искать?
+q: Хм... OK, вот и он!
+s: Стук в дверь...
+u: Диди! Заходи.
+i: Спасибо.
+u: Присаживайся...
+u: Эрис сказала о том, что мне быть спонсором проекта и я согласился, потому что верю в важность проекта для нас и хочу убедиться лично в успешности проекта.
+u: В частности, я хочу убедиться, что мы не принесём в жертву этот проект ради других проектов только потому, что у них есть внешний клиент, а у этого — внутренний.
+u: Понимаете, о чём я?
 
 
-j-iey: Yes
-j-ien: No
+j-iey: Да
+j-ien: Нет
 
 

@@ -1,28 +1,28 @@
 
-s: Meeting with Jehan
-u: Hey Didi!
-i: Hi Jehan.
-u: OK, I've seen your documents, and I have a few questions about your refined plans.
-i: Sure.
-u: It's all about the contracts you need to have in the future.
-u: First, I see the new items in your schedule, but I don't see any changes to your stakeholder list.
-u: You know that all contracts must be signed by the procurement department?
-i: Hmm...
-i: Not really.
-i: None of my previous projects needed external contracts.
-i: I thought I'd sign them myself.
-u: No.
-u: Contracts are sensitive, and a simple mistake can cause a lot of trouble for the company.
-u: In fact, we've had a case in the past where a project manager signed a simple contract for scaffolding and it turned out that a clause in that contract forced all our future projects to use that company for scaffolding for 5 years!
-i: Wow!
-i: That doesn't sound good.
-u: No.
-u: That's why we have this policy now, that only the procurements department can sign contracts.
-u: There are legal experts in that department who make sure it's done properly.
+s: Встреча с Джеан
+u: Привет, Диди!
+i: Привет, Джеан.
+u: OK, я просмотрел документы и у меня пара вопросов по твоим скорректированным планам.
+i: Разумеется.
+u: Это насчёт контрактов, необходимых тебе в будущем.
+u: Прежде всего, я вижу добавленные элементы в твоём плане работ, но не вижу изменений в твоём списке стейкхолдеров.
+u: Ты в курсе, что все контракты должны быть подписаны отделом снабжения?
+i: Хм...
+i: Вообще-то нет.
+i: Никаким предыдущим проектам внешние контракты не понадобились.
+i: Предполагалось, что я их подпишу самостоятельно.
+u: Нет.
+u: Контракты требуют особого обращения и простая ошибка может обернуться большими неприятностями для компании.
+u: У нас был случай, когда менеджер проекта подписал обычный контракт на строительные леса, и оказалось, что пункт в этом контракте вынуждал все наши будущие проекты использовать эту компанию для строительных лесов в течение 5 лет!
+i: Ого!
+i: Это не хорошо.
+u: Нет.
+u: Поэтому наши правила сейчас таковы, что только отдел закупок может подписывать контракты.
+u: Там есть эксперты по праву, которые проследят, что всё сделано правильно.
 
 
-j-b1-13: "I understand."
-j-b1-13: "Is there anything else I should know about contracts in Artophile?"
-j-b1-13: "Any other comments?"
+j-b1-13: "Ясно."
+j-b1-13: "Есть что-то ещё, что надо знать о контрактах в Артофиле?"
+j-b1-13: "Другие комментарии?"
 
 

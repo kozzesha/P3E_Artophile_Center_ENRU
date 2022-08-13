@@ -1,7 +1,7 @@
 
-i: Yes, Anan, I need your help with forming the team.
+i: Да, Анан, мне нужна ваша помощь в формировании команды.
 
 
-j-team3: Wait for Anan to respond.
+j-team3: Дождитесь ответа Анан.
 
 

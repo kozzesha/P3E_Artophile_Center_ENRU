@@ -1,10 +1,10 @@
 
-q: Well, we can kick off and start working on the first monthly cycle.
-q: Or... can we?
-q: We're not prepared for the month yet.
-q: We need to detail the plan for the upcoming month first.
+q: Что ж, можем начинать работу над первым месячным циклом.
+q: Или... мы же можем?
+q: Мы еще не готовы к этому месяцу.
+q: в: Сначала нам нужно детализировать план на предстоящий месяц.
 
 
-j-b1-2-plan: Revising and refining the plans
+j-b1-2-plan: Обновление и детализация планов
 
 

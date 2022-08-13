@@ -1,8 +1,8 @@
 
-q: I think I should call Jehan.
-q: I remember that the idea is to have a different peer-reviewer each time, if possible, to increase the diversity of opinions, and also to help share knowledge among a broader range of project managers, as the peer-reviewer also learns new things.
+q: Думаю, мне следует позвонить Джеан.
+q: Помню, что идея в том, чтобы каждый раз иметь другого ревьюера, чтобы увеличить разнообразие мнений, а также помочь обмену знаниями среди широкого круга руководителей проектов, так как ревьюер также узнаёт какие то новые вещи.
 
 
-j-b1-10: Call Jehan.
+j-b1-10: Позвонить Джеан.
 
 

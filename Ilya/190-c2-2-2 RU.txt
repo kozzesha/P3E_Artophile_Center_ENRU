@@ -1,16 +1,16 @@
 
-i: Berty, are you there?
-i: Berty?
-u: I'm here, Didi.
-i: Can I travel to the end of the month?
-u: So, you like time travel, then?
-i: Well...
-i: I'm checking to see...
-s: A loud noise!
-u: It's the end of the month, Didi.
-i: Thanks.
+i: Берти, вы здесь?
+i: Берти?
+u: Я тут, Диди.
+i: Могу ли я отправиться в конец месяца?
+u: Значит, вам нравятся путешествия во времени?
+i: Ну...
+i: Проверю, посмотрим...
+s: Громкий шум!
+u: Это конец месяца, Диди.
+i: Спасибо.
 
 
-j-e1-1: Ask Mirai to come and see you.
+j-e1-1: Попросите Мирай прийти, чтобы увидеться с вами.
 
 

@@ -1,18 +1,18 @@
 
-q: So, first of all, it's a good idea to meet the newly appointed sponsor and talk about the project - after all, I've been officially involved in this project for at least 5 minutes longer than the sponsor ;)
-q: What's more, we're done with appointing the sponsor, which is activity A01, and appointing the project manager, which is activity A02, and now we need to move on to A03: forming a team.
-q: That's the most important thing I have to talk to Anan about.
-q: I need a lot of help from Anan with forming the team.
-q: Let's call Anan...
-i: Hi Anan, this is Didi.
-u: Didi! Hi...
-u: I was just about to call you to fix a meeting for the project.
-i: Great.
-i: When do you have time to meet, Anan?
-u: How about now?
+q: Так что, во-первых, хорошая идея встретиться с вновь назначенным спонсором и поговорить о проекте — в конце концов, я официально вовлечен в этот проект как минимум на 5 минут дольше, чем спонсор ;)
+q: Более того, мы закончили с назначением спонсора, что есть действие A01, и назначением менеджера проекта, что есть действие A02, и теперь нужно перейти к A03: создание команды.
+q: Это самое важное, о чём мне надо поговорить с Анан.
+q: Мне понадобится большая помощь Анан для создания команды.
+q: Давай позвоним Анан...
+i: Привет, Анан, это Диди.
+u: Диди! Привет...
+u: Я как раз собирался позвонить тебе, чтобы договориться о встрече по проекту.
+i: Отлично.
+i: Когда будет время встретиться, Анан?
+u: Что насчёт сейчас?
 
 
-j-sp-m1-1: "Sure. See you in a few minutes."
-j-sp-m1-1: "I'm on my way."
+j-sp-m1-1: "Конечно. Увидимся через пару минут."
+j-sp-m1-1: "Я в пути."
 
 

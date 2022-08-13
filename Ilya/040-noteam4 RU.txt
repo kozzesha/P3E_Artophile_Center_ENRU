@@ -1,8 +1,8 @@
 
-u: So, Didi, is there anything I can do for you now?
+u: Итак, Диди, есть ли что я могу сделать для вас сейчас?
 
 
-j-ad3y: Yes
-j-ad3n: No
+j-ad3y: Да
+j-ad3n: Нет
 
 

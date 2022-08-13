@@ -1,16 +1,16 @@
 
-i: Hi Tiam.
-i: This is Didi.
-u: Hi Didi.
-u: How can I help you?
-i: We're approaching the end of our monthly initiation.
-i: Can I trouble you to peer-review it?
-u: It's best to ask someone else.
-u: The idea is to have a different peer-reviewer each time, if possible, to increase the diversity of the opinions you receive, and also to help share knowledge among a broader range of project managers in the company.
-i: Oh, I see what you mean.
-i: Thanks, I'll ask someone else, then.
+i: Привет, Тиам.
+i: Это Диди.
+u: Привет, Диди.
+u: Чем могу помочь?
+i: Мы приближаемся к концу нашего месячного запланированного цикла.
+i: Можно вас попросить, чтобы вы провели его оценку?
+u: Лучше спросить кого-нибудь другого.
+u: Идея в том, чтобы каждый раз, если возможно, иметь разных рецензентов, чтобы увеличивать разнообразие мнений, а также помочь обмену знаниями среди более широкого круга менеджеров проектов в компании.
+i: О, я понимаю, что вы имеете в виду.
+i: Спасибо, тогда я спрошу кого-нибудь еще.
 
 
-j-b1-10: Ask Jehan.
+j-b1-10: Спроси Джеан.
 
 

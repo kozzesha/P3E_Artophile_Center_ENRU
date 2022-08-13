@@ -1,13 +1,13 @@
 
-q: Should I start by preparing the Project Description?
-q: Seems like a good idea, but... but I don't know enough about the technical aspects of the project.
-q: I need some help.
-q: There's something else I should do first.
+q: Должен ли я начать подготовку Резюме проекта?
+q: Кажется хорошей идеей, но... но я недостаточно разбираюсь в технических сторонах проекта.
+q: Мне нужна помощь.
+q: Есть еще кое-что, что мне нужно сделать в первую очередь.
 
 
-j-plan: Plan.
-j-sponsor: Make sure there's a sponsor.
-j-noidea: Ask Eris what to do first.
-j-team: Form the initial team.
+j-plan: Запланировать.
+j-sponsor: Убедиться в наличии спонсора.
+j-noidea: Спросить Эрис, что делать в первую очередь.
+j-team: Сформировать изначальную команду.
 
 

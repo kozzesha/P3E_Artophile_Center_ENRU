@@ -1,9 +1,9 @@
 
-q: It's a difficult question!
-q: I know that most people appoint technical people, but the fact is that we'll use their expertise as part of the project anyway, and for the management layers, we need people who are more focused on the management and business aspects.
-q: So, even though I initially felt that Imani might be the best option as the sponsor, I'm now starting to think that Anan might be better.
+q: Это сложный вопрос!
+q: Знаю, что большинство людей назначает технических специалистов, но мы в любом случае будем использовать их опыт в рамках проекта, а для управленческой иерархии нам нужны люди, которые будут сосредоточены на аспектах управления и бизнеса.
+q: Итак, хотя я изначально чувствовал, что лучший вариант в качестве спонсора это Имани, теперь я начинаю думать, что Анан может подходить лучше.
 
 
-j-sp-Anan: Anan
+j-sp-Anan: Анан
 
 

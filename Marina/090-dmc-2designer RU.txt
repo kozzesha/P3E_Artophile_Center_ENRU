@@ -1,16 +1,16 @@
 
-u: Noor, of course!
-i: Of course?
-i: How come?
-u: Oh, you didn't know?!
-u: Noor is the most senior architect in the firm, and indeed, the most famous in the whole country... and beyond! A mixture of Zaha Hadid and Frank Lloyd Wright - although a lot less famous than those two.
-u: Anyway, no important design decision is made without Noor on board.
-i: So, Noor will be involved in other aspects of this project as well?
-u: Certainly!
-i: Alright... Let me add Noor to the list of stakeholders then.
+u: Нур, конечно!
+i: Конечно?
+i: Как это?
+u: О, ты не знаешь?!
+u: Нур - самый опытный архитектор в компании, и уж точно самый известный во всей стране...да и за её пределами! Такой микс Захи Хадид и Френка Ллойда Райта, хотя и менее известный, чем эти двое.
+u: В общем, Нур участвует во всех важных решениях, касающихся проектирования.
+i: Выходит Нур будет участвовать и в других аспектах этого проекта?
+u: Безусловно!
+i: Хорошо...тогда мне нужно дополнить список стейкхолдеров.
 
 
-j-dmc-3: "Let's see the drawing."
-j-dmc-3: "Do you have a copy of the drawing with you?"
+j-dmc-3: "Давай посмотрим чертеж."
+j-dmc-3: "Копия чертежа у тебя с собой?"
 
 

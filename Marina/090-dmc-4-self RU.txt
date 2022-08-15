@@ -1,30 +1,30 @@
 
-i: So, Azar, based on the building's design, I can think of this initial map.
-i: Here it is...
+i: Итак, Азар, основываясь на чертеже здания, я думаю о такой начальной Карте.
+i: Вот так...
 
 t---
 start-textree
-= Artophile Center
-== Main hall
-== Information room
-== Storage room
-== Conference room #3
-== WC #2
-== Utility room
-== IT room
-== Conference room #2
-== Administration room
-== Conference room #1
-== WC #1
-== Meeting room #1
-== Meeting room #2
-== Security room
+= Артофил Центр
+== Главный холл
+== Справочная
+== Кладовка
+== Конференц-зал #3
+== Туалет #2
+== Подсобное помещение
+== Серверная
+== Конференц-зал #2
+== Комната администрации
+== Конференц-зал #1
+== Туалет #1
+== Переговорная  #1
+== Переговорная  #2
+== Комната охраны
 end-textree
 ---t
 
 
-j-dmc-5: "Does it cover everything?"
-j-dmc-5: "Am I missing anything here?"
-j-dmc-5: "What do you think?"
+j-dmc-5: "Это учитывает всё, что нужно?"
+j-dmc-5: "Чего-то не хватает?"
+j-dmc-5: "Что думаешь?"
 
 

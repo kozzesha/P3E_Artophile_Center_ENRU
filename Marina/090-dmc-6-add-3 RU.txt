@@ -1,31 +1,31 @@
 
-i: Here we go...
+i: Вот что получается...
 
 t---
 start-textree
-= Artophile Center
-== Main hall
-== Information room
-== Storage room
-== Conference room #3
-== WC #2
-== Utility room
-== IT room
-== Conference room #2
-== Administration room
-== Conference room #1
-== WC #1
-== Meeting room #1
-== Meeting room #2
-== Security room
-== Parking lot
-== Driveways and walkways
-== Gardens
+= Артофил Центр
+== Главный холл
+== Справочная
+== Кладовка
+== Конференц-зал #3
+== Туалет #2
+== Подсобное помещение
+== Серверная
+== Конференц-зал #2
+== Комната администрации
+== Конференц-зал #1
+== Туалет #1
+== Переговорная  #1
+== Переговорная  #2
+== Комната охраны
+== Парковка
+== Проезды и пешеходные дорожки
+== Парковые зоны
 end-textree
 ---t
 
 
-j-dmc-6-add-3-2: "Anything else?"
-j-dmc-6-add-3-2: "Is it OK?"
+j-dmc-6-add-3-2: "Что-то еще?"
+j-dmc-6-add-3-2: "Так нормально?"
 
 

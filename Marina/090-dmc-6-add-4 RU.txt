@@ -1,9 +1,9 @@
 
-i: Azar, how come I didn't see these things in the design of the building that you showed me before?
-u: Because that was just the plan for the building, and these things are outside the building.
+i: Азар, как вышло, что этого нет на чертеже здания, который мы смотрели ранее?
+u: Потому что это был план здания, а всё перечисленное находится за его пределами.
 
 
-j-dmc-6-add-3: Add the parking lot, driveways and walkways, and gardens to the map.
-j-dmc-6-add-3-2-yes: Add two main elements for the building and its surroundings, move the old elements to the building and add the new ones to the surroundings.
+j-dmc-6-add-3: Добавить парковку, проезды, пешеходные дорожки и парковые зоны в карту.
+j-dmc-6-add-3-2-yes: Добавить два основных элмента для здания и прилегающей к нему территории, переместить уже существующие элементы в элемент здания и добавить новые в прилегающую территорию.
 
 

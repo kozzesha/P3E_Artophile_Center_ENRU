@@ -1,37 +1,37 @@
 
-i: Azar, how about this?
+i: Азар, как насчет такого?
 
 t---
 start-textree
-= Artophile Center
-== The building
-=== Main hall
-=== Information room
-=== Storage room
-=== Conference room #3
-=== WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
-=== WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+= Артофил Центр
+== Здание
+=== Главный холл
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
+=== Туалет #2
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
+=== Туалет #1
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и пешеходные дорожки
+=== Парковые зоны
 end-textree
 ---t
 
-u: Seems fine to me, Didi.
-u: We also need temporary rooms for the staff at the site.
-u: Do you also add the temporary things to the map?
+u: Выглядит неплохо, Диди.
+u: Еще нам нужны временные помещения для персонала на объекте.
+u: Добавляешь ли ты на карту что-то временное? 
 
 
-j-dmc-7-yes: Yes
-j-dmc-7-no: No
+j-dmc-7-yes: Да
+j-dmc-7-no: Нет
 
 

@@ -1,42 +1,42 @@
 
-i: How about demolishing the old warehouse?
-i: I remember that's how Eris started explaining the project to me: We're going to demolish the old warehouse and...
-u: Oh, absolutely - and don't underestimate it.
-u: It's a lot of work.
-i: OK, let's add it then.
+i: Что насчет сноса старого склада?
+i: Я помню, что рассказ Эрис об этом проекте начинался с: мы собираемся снести старый склад и...
+u: О, разумеется! И не стоит недооценивать эту задачу.
+u: Это куча работы.
+i: ОК, значит давай добавим ее.
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-=== Information room
-=== Storage room
-=== Conference room #3
-=== WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
-=== WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+= Артофил Центр
+== Подготовка строительной площадки
+== Снос склада
+== Здание
+=== Главный холл
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
+=== Туалет #2
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
+=== Туалет #1
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и пешеходные дорожки
+=== Парковые зоны
 end-textree
 ---t
 
-u: Yes, Didi, demolition has to be done after site mobilization.
-u: These deliverables have to be ordered in the map, right?
+u: Да, Диди, снос должен быть осуществлен после подготовки строительной площадки.
+u: Результаты в Карте ведь должны быть упорядочены, верно?
 
 
-j-dmc-10-ordered: Yes
-j-dmc-10-unordered: No
+j-dmc-10-ordered: Да
+j-dmc-10-unordered: Нет
 
 

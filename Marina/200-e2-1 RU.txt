@@ -1,34 +1,34 @@
 
-s: The next day
-u: Didi, we have all the responses now, and they're recorded in the Health Register.
-u: Here's the aggregate...
+s: На следующий день
+u: Диди, мы получили все ответы и они уже записаны в реестр «Здоровье проекта».
+u: Вот обобщенные результаты...
 
 m---
-Team members:
+Члены команды:
 
-92%   How easy is it to interact with other team members?
-92%   How easy is it to interact with the project management team?
-87%   How easy is it to interact with external stakeholders?
-94%   Are your role and responsibilities clear enough?
-81%   Do you have a clear image of the project?
-87%   How realistic are the goals in this project?
-87%   How happy are you with the project management system?
-92%   Overall, how happy are you with your job?
+92%   Насколько легко взаимодействовать с другими членами команды?
+92%   Насколько легко взаимодействовать с командой управления проектом?
+87%   Насколько легко взаимодействовать с внешними стейкхолдерами?
+94%   Достаточно ли ясны ваша роль и обязанности?
+81%   Есть ли у вас четкая картина проекта?
+87%   Насколько реалистичны цели этого проекта?
+87%   Насколько вы довольны системой управления проектом?
+92%   Насколько вы довольны вашей работой в общем?
 
-Other stakeholders:
+Другие стейкхолдеры:
 
-82%   Do you have a clear understanding of what happens in the project?
-77% × How easy is it to communicate with us?
-87%   Is our management process clear enough for you?
-87%   Is the project moving in the direction you expect it to?
-89%   Overall, how happy are you with this project?
+82%   Есть ли у вас четкое представление о том, что происходит на проекте?
+77% × Насколько вам легко коммуницировать с нами?
+87%   Достаточно ли вам ясен наш процесс управления проектом? 
+87%   Двигается ли проект в направлении, которое вы ожидаете?
+89%   Насколько вы довольны этим проектом в общем?
 ---m
 
-i: Thanks, Mirai.
-i: Please arrange a workshop with the team to go through the results, and also prepare a chart that shows the changes in the score for each of those items across time.
-u: I'm on it.
+i: Спасибо, Мирай.
+i: Пожалуйста, организуй рабочую встречу со всей командой, чтобы просмотреть результаты, и еще подготовь график, который показывает изменения оценок по каждому из этих пунктов с течением времени.
+u: Уже в процессе.
 
 
-j-e2-2: "Thanks."
+j-e2-2: "Спасибо."
 
 

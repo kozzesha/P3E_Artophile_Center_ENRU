@@ -1,10 +1,10 @@
 
-i: OK, let's go through the ideas, one at a time, and discuss the advantages and disadvantages of each of them before voting.
-i: Let's spend a maximum of 5 minutes on each idea.
-i: Mirai, would you be the timekeeper?
-u: Sure.
+i: Хорошо, давайте рассмотрим идеи по одной и обсудим преимущества и недостатки каждой из них перед голосованием.
+i: Давайте тратить не более 5 минут на каждую идею.
+i: Мирай, можешь последить за временем?
+u: Конечно.
 
 
-j-e2-4: "OK, let's begin!"
+j-e2-4: "Отлично, давайте начнем!"
 
 

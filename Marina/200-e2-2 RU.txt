@@ -1,18 +1,18 @@
 
-s: A little later, in the workshop
-i: Thanks everyone for coming.
-i: Based on this month's evaluation, there's one item that needs serious attention.
-i: It's the fact that the stakeholders outside our team don't find it easy to communicate with us.
-i: I'd like to ask you for a solution.
-i: We can use a Delphi-style method to find the solution; so, please write down every solution you can think of, and pass the papers to Mirai.
-s: 5 minutes later
-u: Didi, I've collected all the ideas and summarized them in a list.
-u: Some ideas were suggested by more than one person, and I've turned them into one that covers all of them.
-u: What's next?
+s: Немного позже на рабочей встрече
+i: Спасибо всем, что пришли.
+i: Судя по результатам оценки в этом месяце, у нас есть один пункт, который требует серьезного внимания.
+i: Это тот факт, что стейкхолдерам за пределами нашей команды нелегко с нами коммуницировать.
+i: Я хочу попросить вас найти решение.
+i: Мы можем воспользоваться методом в стиле "Дельфи" чтобы найти решение. Прошу вас записать любое решение, которое вы можете придумать, а Мирай соберет ваши записи.
+s: 5 минут спустя
+u: Диди, все ответы собраны и просуммированы в один список.
+u: Некоторые идеи были предложены более чем одним человеком, поэтому они объединены в один пункт, покрывающий их все.
+u: Что дальше?
 
 
-j-e2-3-vote: Let's vote.
-j-e2-3-round2: Let's have another round of collecting ideas.
-j-e2-3-discuss: Let's discuss the ideas.
+j-e2-3-vote: Давайте проголосуем.
+j-e2-3-round2: Давайте проведем еще один раунд сбора идей.
+j-e2-3-discuss: Давайте обсудим идеи.
 
 

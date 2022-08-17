@@ -1,22 +1,22 @@
 
-i: Mirai, would you come here, please?
-u: Yes, Didi, how can I help?
-i: It's time for the monthly closure... isn't it?
-u: I think so.
-i: OK, I suppose we've prepared two questionnaires about stakeholder satisfaction before, haven't we?
-u: Are you still testing me with the time travel scenario?
-i: Hmm...
-i: Yes, that's what I'm doing!
-u: OK...
-u: Yes, we have two sets of questionnaires: one for the team members and the other for the stakeholders outside the team, and we've been using an online form to capture their responses anonymously.
-i: Good.
-i: Good.
-i: Please send them to the stakeholders then.
+i: Мирай, можешь подойти, пожалуйста?
+u: Да, Диди, чем я могу помочь?
+i: Пришло время для закрытия цикла...не так ли?
+u: Думаю да.
+i: ОК, я полагаю мы уже подготовили два опросника для оценки удовлетворенности стейкхолдеров, верно?
+u: Ты все еще проверяешь меня сценарием путешествия во времени?
+i: Хмм...
+i: Да, именно это я и делаю!
+u: ОК...
+u: Да, у нас есть два набора вопросов: один для членов команды и другой для стейкхолдеров за пределами команды, и мы использовали онайн форму для анонимного сбора их ответов.
+i: Хорошо.
+i: Хорошо.
+i: Тогда отправь их стейкхолдерам, пожалуйста.
 u: OK.
-q: I think I like these trips in time...
-q: You can simply remove the repetitive parts of life and get right into the interesting parts!
+q: Думаю мне нравятся эти путешествия во времени...
+q: Ты можешь просто убрать повторяющиеся элементы жизни и сразу перейти к интересным частям!
 
 
-j-e2-1: Check out the questions while waiting for the stakeholders to respond.
+j-e2-1: Ознакомиться с вопросами, пока ждете ответов стейкхолдеров.
 
 

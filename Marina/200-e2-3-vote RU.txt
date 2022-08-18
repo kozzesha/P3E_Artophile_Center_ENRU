@@ -1,11 +1,11 @@
 
-i: OK, now we can vote on the ideas.
-u: Didi...
-i: Yes, Sasha?
-u: Now that I've seen other people's ideas, I've thought of a new one.
-u: I think it would be a good idea to add it.
+i: ОК, теперь мы можем проголосовать за идеи.
+u: Диди...
+i: Да, Саша?
+u: Теперь, когда мы увидели идеи других людей, мне в голову пришла новая идея.
+u: Думаю было бы неплохо добавить её.
 
 
-j-e2-3-round2: Let's have another round of collecting ideas.
+j-e2-3-round2: Давайте проведем еще один раунд сбора идей.
 
 

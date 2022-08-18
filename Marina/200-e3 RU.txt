@@ -1,27 +1,27 @@
 
-q: OK, it's time for a focused communication...
+q: ОК, пришло время направить фокусированную коммуникацию...
 
 e---
-Hi everyone,
-Thanks to you, we were able to finish these deliverables this month:
+Всем привет,
+Благодаря вам, нам удалось достичь следующих результатов:
 
-* Main hall › Ceiling › Cladding and insulation
-* Information room › Lighting
-* Conference room #3 › HVAC
-* WC #2 › Floor
-* WC #2 › Walls
-* Conference room #2 › Fire protection
-* Administration room
-* Security room › Computer network
+* Главный холл › Потолок › Облицовка и теплоизоляция
+* Справочная › Освещение
+* Конференц-зал #3 › Отопление, вентиляция, кондиционирование
+* Туалет #2 › Пол
+* Туалет #2 › Стены
+* Конференц-зал #2 › Противопожарная защита
+* Комната администрации
+* Комната охраны › Компьютерная сеть
 
-We've also decided to use non-technical language in our conversations with stakeholders outside the team, to improve effectiveness.
-We'll get together soon to initiate another monthly cycle. Looking forward to talking to you then!
+Также мы решили для повышения эффективности не использовать технический язык в наших беседах со стейкхолдерами за пределами команды.
+Скоро мы снова соберемся вместе, чтобы запланировать новый цикл. С нетерпением жду возможности поговорить с вами!
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-e3-2: Send
+j-e3-2: Отправить
 
 

@@ -1,9 +1,9 @@
 
-s: Half an hour later
-i: OK, we're done with discussing the items and voting on them.
-i: Based on your votes, the selected solution is to use non-technical language in our conversations.
+s: Полчаса спустя
+i: Отлично, мы закончили с обсуждениием предложений и голосованием.
+i: Выбранное на основании ваших голосов решение - использовать в наших беседах не технический язык.
 
 
-j-e3: Thank everyone and end the meeting.
+j-e3: Поблагодарить всех и завершить встречу.
 
 

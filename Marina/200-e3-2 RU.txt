@@ -1,23 +1,23 @@
 
-u: Didi!
-i: Who's there?
-u: It's Berty.
-i: Oh, OK.
-u: I wanted to let you know that today is my last day at work; I'm going to retire.
-i: Wow...
-i: So, no more time travel?
-u: Well, I do have a replacement, but each time-travel agent has their own list of supported project managers, and you may or may not end up on their list.
-i: Hmm...
-i: Let's see, then.
-u: Yeah.
-u: So, before I go, I'm going to send you to another point in time, for the last time!
-i: But I don't want to!
-i: I'm having a goo...
-s: A loud noise!
-q: I'm a little dizzy.
-q: Have I moved forward in time?
+u: Диди!
+i: Кто там?
+u: Это Берти.
+i: О, хорошо.
+u: Я хотел бы вам сообщить, что сегодня мой последний рабочий день, я ухожу на пенсию.
+i: Ого...
+i: Так что, теперь никаких больше путешествий во времени?
+u: Ну, у меня есть замена, но у каждого агента по путешествиям во времени есть свой собственный список менеджеров проекта, которых он поддерживает, и вы можете попасть в этот список, а можете и нет.
+i: Хмм...
+i: Что ж, увидим.
+u: Ага.
+u: Итак, перед уходом я собираюсь отправить вас еще в один момент времени, в последний раз!
+i: Но я не хочу!
+i: У меня есть д...
+s: Громкий звук!
+q: Что-то у меня кружится голова.
+q: Меня перенесло вперед во времени?
 
 
-j-f1-1: "Hello? Anybody out there?"
+j-f1-1: "Эй? Здесь есть кто-нибудь?"
 
 

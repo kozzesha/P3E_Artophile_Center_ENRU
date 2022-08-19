@@ -1,19 +1,19 @@
 
-s: 6 months later
+s: 6 месяцев спустя
 
 e---
-Hello everyone,
-A quick update on the biannual evaluation of the Artophile Center: In the first 6 months, we've hosted 5 artistic/cultural events and 3 business events. Also, the name "Artophile Center" has appeared 12 times in the media, which is great for our reputation.
-Overall, most critics have identified the Artophile Center as a great contribution to art and culture in Artopolis.
+Приветствую всех,
+Короткая сводка по двухгодичной оценке Артофил Центра: в первые 6 месяцев мы приняли 5 художественных\культурных мероприятий и 3 деловых мероприятия. Кроме того, название "Артофил Центр" 12 раз появлялось в СМИ, что хорошо для нашей репутации.
+В целом, большинство критиков назвали Артофил Центр прекрасным вкладом в культуру и искусство Артополиса.
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
-q: Wow... that sounds good :)
-q: So, Anan is taking care of the post-project cycle, and uses 6-month cycles.
+q: Ого...звучит отлично :)
+q: Значит Анан занимается Центром после завершения проекта и использует шестимесячные циклы.
 
 
-j-g-2: Next
+j-g-2: Далее
 
 

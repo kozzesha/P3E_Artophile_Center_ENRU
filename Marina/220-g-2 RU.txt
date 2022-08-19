@@ -1,17 +1,17 @@
 
-s: Yet another 6 months later
+s: Еще через 6 месяцев
 
 e---
-Hello everyone,
-It's been a year since we opened the Artophile Center. I'm glad to announce that it's been a resounding success. It's had more than 500 mentions in the media with lots of praise, and we've hosted about 70 events. It's hard to measure, but we believe that some of our current clients have selected us because of our improved reputation.
+Приветствую всех,
+Вот уже год как мы открыли Артофил Центр. Я счастлив сообщить об ошеломляющем успехе. У Центра более 500 упоминаний в СМИ и множество похвал. Мы провели более 70 мероприятий. Это сложно оценить, но мы уверены, что многие из наших клиентов выбрали нас благодаря нашей окрепшей репутации.
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
-q: Sounds really good.
+q: Звучит просто отлично.
 
 
-j-g-3: Next
+j-g-3: Далее
 
 

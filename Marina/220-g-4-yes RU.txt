@@ -1,14 +1,14 @@
 
 e---
-Hi Anan,
-It sounds like a good idea to have such a conference.
-I believe Mirai is a good candidate for managing this project. I used to ask Mirai to arrange all our workshops and meetings in the Artophile Center project, and they were always done perfectly. Your project is, of course, much larger and more complicated, but I don't see why Mirai can't handle it.
+Здравствуйте, Анан,
+Организация такой конференции кажется хорошей идеей.
+Мне кажется, что Мирай - хороший кандидат для управления этим проектом. На проекте Артофил Центра Мирай занимался организацией всех рабочих встреч и митингов, и они всегда проходили идеально. Ваш проект, разумеется, гораздо крупнее и сложнее, но я не вижу причин, по которым Мирай может не справиться с ним.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-end-1: Send
+j-end-1: Отправить
 
 

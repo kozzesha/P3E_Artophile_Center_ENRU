@@ -1,19 +1,19 @@
 
-s: Another 6 months later
+s: Еще 6 месяцев спустя
 
 e---
-Hi Didi,
-I was checking the benefits of the Artophile Center when I came up with an idea: to arrange a national conference about sustainable architecture. Naturally, it would be held in the Artophile Center.
-I was thinking of having Mirai as the project manager. Is it a good idea in your opinion?
+Здравствуйте, Диди,
+В процессе изучения преимуществ Артофил Центра, мне в голову пришла идея: организовать общенациональную конференцию об экологичной архитектуре. Естественно, она пройдет в Артофил Центре.
+Я подумываю, что Мирай может стать менеджером этого проекта. Как считаете, это хорошая идея?
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
-q: Alright, it's Anan's G02 activity.
+q: Хорошо, Анан на шаге G02.
 
 
-j-g-4-yes: Recommend Mirai.
-j-g-4-no: Don't recommend Mirai.
+j-g-4-yes: Мирай подходит на эту роль.
+j-g-4-no: Мирай не подходит на эту роль.
 
 

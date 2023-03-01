@@ -1,10 +1,10 @@
 
-u: Would you like to share the course with your network on social networks such as LinkedIn, Twitter, and Facebook?
-u: If so, you can copy the following link and paste it there:
+u: Хотите ли вы поделиться курсом в соцсетях, таких как LinkedIn, Twitter и Facebook?
+u: Если да, вы можете скопировать и разместить следующую ссылку:
 
 n---
 {{ tx-canonical-url }}
 ---n
 
 
-j-end-3: Next
+j-end-3: Далее

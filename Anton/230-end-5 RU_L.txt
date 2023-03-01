@@ -1,0 +1,97 @@
+
+u: Наконец,
+u: Будет здорово, если вы поделитесь впечатлениями о курсе, используя форму ниже.
+u: Спасибо, успехов в ваших проектах!
+
+o---
+<form action=https://p3.express/evaluation.php method=POST>
+**Evaluation Form**
+<input type=hidden name=course value=artophile>
+<hr>
+(To avoid random bots on the web) 21×2=
+<input type=number min=40 max=50 step=1 id=human name=human >
+<hr>
+Сколько всего часов вы потратили на прохождение курса?
+<input type=number min=0 max=999 step=1 id=hours name=hours >
+
+Скорее всего вы делали паузы; сколько дней вы потратили на прохождение курса?
+<input type=number min=0 max=99 step=1 id=days name=days >
+<hr>
+Какие ресурсы вы использовали, чтобы узнать о P3.express перед началом курса?
+
+<input type=checkbox id=sr-manual name=sr-manual ><label for=sr-manual> Онлайн-руководство</label>
+<input type=checkbox id=sr-articles name=sr-articles ><label for=sr-articles> Статьи</label>
+<input type=checkbox id=sr-books name=sr-books ><label for=sr-books> Книги</label>
+<input type=checkbox id=sr-webinar name=sr-webinar ><label for=sr-webinar> Вебинары / короткие видео</label>
+<input type=checkbox id=sr-elearning name=sr-elearning ><label for=sr-elearning> Онлайн-курсы</label>
+<input type=checkbox id=sr-class name=sr-class ><label for=sr-class> Живые тренинги</label>
+
+
+Сколько раз вы обращались к руководству во время этого курса?
+
+<input type=radio id=c0 name=checks value=0><label for=c0> Менее 3 раз</label>
+<input type=radio id=c1 name=checks value=1><label for=c1> 3 - 10 раз</label>
+<input type=radio id=c2 name=checks value=2><label for=c2> 10 - 20 раз</label>
+<input type=radio id=c3 name=checks value=3><label for=c3> 20 - 40 раз</label>
+<input type=radio id=c4 name=checks value=4><label for=c4> Более 40 раз</label>
+
+
+Насколько сложно было проходить курс?
+
+<input type=radio id=e0 name=ease value=0><label for=e0> Очень сложно!</label>
+<input type=radio id=e1 name=ease value=1><label for=e1> Довольно сложно</label>
+<input type=radio id=e2 name=ease value=2><label for=e2> Относительно легко</label>
+<input type=radio id=e3 name=ease value=3><label for=e3> Очень легко</label>
+
+
+Как вам продолжительность курса??
+
+<input type=radio id=l0 name=length value=0><label for=l0> Очень коротко</label>
+<input type=radio id=l1 name=length value=1><label for=l1> Слегка коротко</label>
+<input type=radio id=l2 name=length value=2><label for=l2> Отлично</label>
+<input type=radio id=l3 name=length value=3><label for=l3> Слегка затянуто</label>
+<input type=radio id=l4 name=length value=4><label for=l4> Очень затянуто</label>
+
+
+Как вы оцениваете увлекательность курса?
+
+<input type=radio id=g0 name=engaging value=0><label for=g0> Скучно... Хотелось спать!</label>
+<input type=radio id=g1 name=engaging value=1><label for=g1> Недостаточно увлекательный</label>
+<input type=radio id=g2 name=engaging value=2><label for=g2> Более менее</label>
+<input type=radio id=g3 name=engaging value=3><label for=g3> Очень увлекательный</label>
+<input type=radio id=g4 name=engaging value=4><label for=g4> Супер увлекательный, я не мог остановиться!</label>
+
+
+Вам понравился формат (интерактиный, тектовый)?
+
+<input type=radio id=f0 name=format value=0><label for=f0> Совсем нет</label>
+<input type=radio id=f1 name=format value=1><label for=f1> Не очень</label>
+<input type=radio id=f2 name=format value=2><label for=f2> Средне</label>
+<input type=radio id=f3 name=format value=3><label for=f3> Понравился</label>
+<input type=radio id=f4 name=format value=4><label for=f4> Очень понравился</label>
+
+
+Сейчас, когда вы завершили курс, вы лучше представляете, как использовать P3.express в ваших проектах?
+
+<input type=radio id=p0 name=practice value=0><label for=p0> Совсем нет</label>
+<input type=radio id=p1 name=practice value=1><label for=p1> Не особо</label>
+<input type=radio id=p2 name=practice value=2><label for=p2> Немного </label>
+<input type=radio id=p3 name=practice value=3><label for=p3> Лучше</label>
+<input type=radio id=p4 name=practice value=4><label for=p4> Гораздо лучше!!!</label>
+
+<hr>
+Какую оценку вы бы поставили данному курсу, по шкале от 0 (ужасно!) до 100 (отлично)?
+
+<input type=number min=0 max=100 step=1 id=score name=score >
+
+Есть ли у вас какие-либо комментарии?
+
+<textarea id=comment name=comment ></textarea>
+
+<input type=submit value=Submit>
+</form>
+---o
+
+
+#!nd
+

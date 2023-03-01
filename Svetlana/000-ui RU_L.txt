@@ -1,0 +1,23 @@
+
+tx-language:       ru
+tx-translated-by:  Переведено Антон Кикоть, Артём Танков, Светлана Сафонова, Илья Хоудатченко, Наталья Власова, Валерия Ильенкова, Марина Шестакова, Дарья Иванова
+
+tx-title:          Курс-симулятор «Артофил Центр»
+tx-header:         Проект «Артофил Центр» 
+tx-slogan:         Минималистичная система управления проектами
+tx-progress:       примерный прогресс
+tx-restart:        Перезапустить симуляцию
+tx-manual:         Руководство P3.express 
+
+tx-license:        Данная работа предоставляется по открытой лицензии
+tx-erasmus:        Создано при финансовой поддержке Erasmus+ Programme от Европейского Союза
+
+tx-tr-inv:         Мы ищем волонтёров, которые помогут перевести курс на другие языки. Если вы заинтересованы, напишите нам: info@p3.express
+tx-tr-inf:         Этот курс переведён на {language} by {yourname(s)}
+
+tx-error:          Ошибка: Не удаётся загрузить курс. Возможно, JavaScript неактивен в вашем браузере, или что-то ещё пошло не так. Пожалуйста, сообщите о проблеме: info@p3.express
+
+tx-canonical-url:  https://p3.express/training/artophile-center/
+tx-cover-url:      https://p3.express/images/course-cover.png
+tx-manual-url:     https://p3.express/manual/v2/
+

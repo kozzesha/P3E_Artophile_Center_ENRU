@@ -1,14 +1,14 @@
 
 u: Наконец,
-u: Будет здорово, если вы поделитесь впечатлениями о курсе, используя форму ниже.
+u: будет здорово, если вы поделитесь впечатлениями об этом курсе-симуляторе, используя форму ниже.
 u: Спасибо, успехов в ваших проектах!
 
 o---
 <form action=https://p3.express/evaluation.php method=POST>
-**Evaluation Form**
+**Форма оценки**
 <input type=hidden name=course value=artophile>
 <hr>
-(To avoid random bots on the web) 21×2=
+(Чтобы избежать ботов) 21×2=
 <input type=number min=40 max=50 step=1 id=human name=human >
 <hr>
 Сколько всего часов вы потратили на прохождение курса?
